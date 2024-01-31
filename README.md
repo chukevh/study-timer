@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Study Timer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A live demo of this project can be found at [https://chukevh.github.io/study-timer]
 
 ## Available Scripts
 
