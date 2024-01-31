@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/study-timer/static/css/main.fc8c8e24.css",
-    "main.js": "/study-timer/static/js/main.3de9f31a.js",
+    "main.css": "/study-timer/static/css/main.96373263.css",
+    "main.js": "/study-timer/static/js/main.65f1322c.js",
+    "static/media/sad-cat.gif": "/study-timer/static/media/sad-cat.b8e7216f246b307b1f91.gif",
+    "static/media/cat-typing.gif": "/study-timer/static/media/cat-typing.ad17f4d30c2483a9db68.gif",
+    "static/media/cat-typing-still.jpg": "/study-timer/static/media/cat-typing-still.963a7c99538c199b4b61.jpg",
     "index.html": "/study-timer/index.html",
-    "main.fc8c8e24.css.map": "/study-timer/static/css/main.fc8c8e24.css.map",
-    "main.3de9f31a.js.map": "/study-timer/static/js/main.3de9f31a.js.map"
+    "main.96373263.css.map": "/study-timer/static/css/main.96373263.css.map",
+    "main.65f1322c.js.map": "/study-timer/static/js/main.65f1322c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc8c8e24.css",
-    "static/js/main.3de9f31a.js"
+    "static/css/main.96373263.css",
+    "static/js/main.65f1322c.js"
   ]
 }
