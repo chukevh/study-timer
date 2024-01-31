@@ -1,6 +1,6 @@
 # Getting Started with Study Timer
 
-A live demo of this project can be found at [https://chukevh.github.io/study-timer]
+A live demo of this project can be found at https://chukevh.github.io/study-timer
 
 ## Available Scripts
 
