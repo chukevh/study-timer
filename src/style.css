@@ -6,7 +6,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #639;
-  
 }
 
 code {
@@ -35,4 +34,8 @@ button {
   color: white;
   font-weight: bold;
   
+}
+
+.img-cat {
+  width: 300px;
 }
