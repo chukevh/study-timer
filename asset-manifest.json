@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study-timer/static/css/main.fc8c8e24.css",
+    "main.js": "/study-timer/static/js/main.3de9f31a.js",
+    "index.html": "/study-timer/index.html",
+    "main.fc8c8e24.css.map": "/study-timer/static/css/main.fc8c8e24.css.map",
+    "main.3de9f31a.js.map": "/study-timer/static/js/main.3de9f31a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8c8e24.css",
+    "static/js/main.3de9f31a.js"
+  ]
+}
